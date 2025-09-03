@@ -9,6 +9,9 @@ Practical setup:
 2. Place reflective markers/tape at the desired positions around the capture volume
 Once the code is run, it will automatically prompt the user to choose the markers and the desired manouever.
 
+In Motive:
+Make sure to create a rigid body for the drone and check for no v occlusions before running the code
+
 (To be updated)
 
 
