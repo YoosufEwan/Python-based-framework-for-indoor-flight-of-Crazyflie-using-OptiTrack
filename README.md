@@ -4,6 +4,8 @@ This repository includes the Python codes needed to achieve controlled and stabi
 To start with, NatNet SDK from OptiTrack website (https://optitrack.com/software/natnet-sdk/) will need to be downloaded onto the host PC.
 Once extracted, the folderf "Samples -> PythonClient" will have 3 python codes named "DataDescriptions.py", "MoCapData.py", "NatNetClient.py" (also included in the repository). These python codes must be in the same folder as the main control code.
 
+Also, make sure you have downloaded the Crazyflie Python Library (cflib).
+
 Practical setup:
 1. Place 4 reflective markers on the drone in an asymmetric pattern to track the drone using the OptiTrack cameras
 2. Place reflective markers/tape at the desired positions around the capture volume
